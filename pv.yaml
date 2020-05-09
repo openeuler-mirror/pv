@@ -1,0 +1,4 @@
+version-ctrl: github
+src_repo: icetee/pv
+tag_prefix: ^
+seperator: .
